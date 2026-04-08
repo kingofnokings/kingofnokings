@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Kayke Bruno Silva Reis, tenho 21 anos e sou natural do Piauí. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sou uma pessoa dedicada a aprender e encarar desafios em busca de conhecimento. No momento, as tecnologias que estou estudando com maior foco são Python para análise de dados e PostgreSQL.
+Me chamo Kayke Bruno Silva Reis, tenho 21 anos e sou natural do Piauí. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sou uma pessoa dedicada a aprender e encarar desafios em busca de conhecimento. No momento, as tecnologias que estou estudando com maior foco são React e Javascript para desenvolvimento full stack.
 
 ### 🤖 Linguagens e Tecnologias
 
